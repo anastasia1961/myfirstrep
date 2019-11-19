@@ -1,5 +1,11 @@
 # myfirstrep
 
+<head>
+  <title>Anas's Example HTML page</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
 <h1>Hello world</h1>
 <h1>Hello World </h1>
 
